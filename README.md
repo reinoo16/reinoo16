@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://reino.dev/](https://reino.dev/)
+- 👨‍💻 All of my projects are available at [https://reinodev-portfolio.vercel.app/](https://reinodev-portfolio.vercel.app/)
 
 - 📫 How to reach me **reinodevv@gmail.com**
 
